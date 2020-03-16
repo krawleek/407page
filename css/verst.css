@@ -75,6 +75,7 @@ main {
    height: 88px;
    top: -webkit-calc(21% - 88px);
    left: -webkit-calc(95% - 85px);
+   z-index: 3;
 }
 
 .images {
