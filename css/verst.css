@@ -81,7 +81,7 @@ main {
 .images {
    position: absolute;
    top: 40%;
-	left: 2%;
+	left: 4%;
    width: 110%;
    z-index: 2;
    background-size: contain;
